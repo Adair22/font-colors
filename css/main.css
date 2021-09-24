@@ -16,3 +16,19 @@ h1 {
 h2 {
   font-size: 1.5em;
 }
+
+@media  (min-width: 768px) {
+	 h1, h2, p { font: #7b7d70:
+	 font-family: #4eafb8; 
+	 font-family: #ff8641;
+    
+  }
+}
+
+
+@media  (min-width: 1200px) {
+	body {
+		background: yellow;
+	}
+
+}
